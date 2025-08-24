@@ -160,6 +160,13 @@ cd frontend
 npm run build
 ```
 
+## Some project screenshots
+<img width="1890" height="908" alt="image" src="https://github.com/user-attachments/assets/be21b674-d5a8-4d25-8900-4d24ce877e2f" />
+<img width="1870" height="906" alt="image" src="https://github.com/user-attachments/assets/c0c21a14-8352-468f-8c0f-dc2b05a2c341" />
+<img width="1893" height="905" alt="image" src="https://github.com/user-attachments/assets/6dd12454-637b-4b12-94b7-d30043d81daf" />
+<img width="1880" height="916" alt="image" src="https://github.com/user-attachments/assets/b2eae63f-327e-4a4e-9c04-d153f526cc74" />
+
+
 ## Troubleshooting
 
 ### Common Issues
